@@ -1,36 +1,97 @@
+<h1 align="center">👩‍💻 M.K Priyanka</h1>
+<h3 align="center">Software Engineer | Mobile App Developer | Full-Stack Developer</h3>
 
-# M.K Priyanka 👩‍💻
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40">
+</p>
 
-## Hi there 👋,
+---
 
-## I'm M.K Priyanka, an entry-level IT professional with a background in Computer Science and a passion for technology and innovation.
--------
-  
-## 🧐 About
+## 🌟 About Me
 
-- 🎓 Currently pursuing a Bachelor of Science in Computer Science at Trincomalee Campus, Eastern University.
-- 💻 Skilled in programming languages such as Java, C++, VB, and frameworks like React, Next.js, and Flutter.
-- 🛠️ Experienced in data entry, IT support, and software testing.
-- 🧠 A critical thinker who enjoys problem-solving and contributing to technology-driven teams.
-- 👯 And Many More...
+I’m **Priyanka**, an energetic and passionate **Software Engineer** who loves building modern digital solutions — from **AI-powered mobile applications** to **full-stack web platforms**.
 
-## 🌱 Experience
+I enjoy solving real-world problems with technology and constantly exploring new tools, frameworks, and design patterns.
 
-- IT Technician & Data Entry Specialist at Divisional Secretariat Dambulla
-- Managed sensitive government records and ensured data integrity. Optimized workflows and improved efficiency within the IT department.
+- 🎓 BSc in Computer Science (Trincomalee Campus – EUSL)  
+- 💻 Skilled in Mobile Apps, Full-Stack Development, and AI Integration  
+- 💡 Curious, fast-learning, and always open to new challenges  
+- 🌱 Currently improving: **Cloud Computing, DevOps, and Advanced React**
 
-## 👯 Projects
+---
 
-- Women Safety App: Developed a Flutter app using speech emotion recognition to detect distress and send alerts.
-- GPA Calculator: Built a user-friendly GPA calculator in Visual Basic for students.
+## 🚀 Technologies I Work With
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### **Frontend**
+- React.js | Next.js | HTML5 | CSS3 | Tailwind CSS | Zustand | Redux Toolkit
 
-## 💬 Ask Me About
+### **Backend**
+- Node.js | Express.js | FastAPI | REST APIs | GraphQL
 
--  Ping Me about#CloudComputing, #MobileAppDevelopment, #CommunityBuilding, and #DataManagement. and anything you like
-## 📫 Reach Me At
-- Email: priyankapriyadarshani1024@gmail.com
-- Phone: (+94) 71 729-1555
+### **Mobile Development**
+- Flutter | React Native
 
+### **AI / Machine Learning**
+- TensorFlow Lite | Keras
 
+### **Databases & Cloud**
+- MongoDB | MySQL | PostgreSQL | Firebase | Appwrite | AWS
+
+### **Tools & Testing**
+- Git | GitHub | Docker | Postman  
+- Selenium | Cypress | Playwright | TestNG  
+
+---
+
+## 🛠 Featured Projects
+
+### 🔐 **Women Safety App – AI + Emergency Alert**
+A Flutter-based real-time safety app using  
+✔ Speech Emotion Recognition (TensorFlow Lite)  
+✔ Auto-detection of stress and danger  
+✔ Automatic SMS with GPS Location  
+
+### 📊 **Tire Management System – MERN**
+Developed during industry training at SLT-Mobitel  
+✔ Improved automation  
+✔ Built dashboards, forms & data visualization  
+✔ API development & workflow optimization  
+
+### 📰 **News Website – MERN**
+✔ Category-wise news  
+✔ Responsive UI  
+✔ SEO optimized & fast loading
+
+### 🌐 **Business Social Media Platform – MERN**
+✔ Post, like, comment features  
+✔ Secure authentication  
+✔ Modern UI components  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PriyankaPriyadarshani1024&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaPriyadarshani1024&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Fun Facts
+
+- 💖 I love building meaningful apps that help people.
+- 🧠 I enjoy exploring new technologies and experimenting with ideas.
+- 🎨 I love clean UI design and modern development patterns.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **priyankapriyadarshani1024@gmail.com**
+- 🌍 LinkedIn: **https://www.linkedin.com/in/priyanka-m-k-93542b24a**
+- 💼 GitHub: **PriyankaPriyadarshani1024**
+
+---
+
+<p align="center">🔥 *Thanks for visiting my profile!* 🔥</p>
