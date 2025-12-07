@@ -69,15 +69,6 @@ Developed during industry training at SLT-Mobitel
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PriyankaPriyadarshani1024&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaPriyadarshani1024&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## ✨ Fun Facts
 
 - 💖 I love building meaningful apps that help people.
